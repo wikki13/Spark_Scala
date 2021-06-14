@@ -3,19 +3,4 @@ Explanation of all Spark SQL, RDD, DataFrame and Dataset examples present on thi
 @Author : VIGNESHWARA C
 @Designation : Student
 @TIME : 22:17 
-
-## Spark RDD Examples
-
-  
-## Spark SQL Tutorial
-
-  
-## Spark SQL Functions
-
-
-## Spark Data Source API
-
-   
-## Spark Streaming & Kafka
-  
    
